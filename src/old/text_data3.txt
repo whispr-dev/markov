@@ -1,0 +1,172 @@
+muesli — Yesterday at 20:13
+you see some fun stuff living on github/gits in general now
+research papers
+standards
+I'm actually looking at my syncing/backups at the moment
+wofl — Yesterday at 20:14
+tbh most of mine is private forks of hacking tools i jsut have an innocent not even do pen testing with cos i never actually use em white hat interst in
+muesli — Yesterday at 20:14
+I'm using borg for backups across systems, but the syncing I'm still contemplating
+defo something git-centric as front runner
+wofl — Yesterday at 20:15
+i dont worry about backups - that's done by dropbox
+muesli — Yesterday at 20:15
+borg is basically that
+wofl — Yesterday at 20:15
+but i want some stuff to be publicly available when finished
+muesli — Yesterday at 20:15
+it's just private and decentralised (sits on multiple laptops and servers
+github is defo your best bet for most use cases for any kind of technical audience
+wofl — Yesterday at 20:16
+actually do you mind if i take a half hr to do manual external bakup before i panic cos i did alot of work this past few days
+muesli — Yesterday at 20:16
+just coz most people are already there
+go for it
+I prefer my paid sourcehut account but the reality is, if you want people to see it, and especially to collaborate with you, just use github
+wofl — Yesterday at 20:17
+ok - we're going#
+wofl — Yesterday at 20:25
+this computron seems to do backups way faster than my surface
+wofl — Yesterday at 20:47
+ok, all done
+that didn't take too long - complete manual bakup to external took from 2017 to 2047
+exactly 1/2hr
+like i predicted
+omg
+am a god
+muesli — Yesterday at 20:59
+just on phone to brother, usually about an hour
+wofl — Yesterday at 21:04
+just redosed weed and stim - gonna start some wolfram
+wofl — Yesterday at 21:59
+fren - output of my first successfully running triple way gan manaaged by ganglion with fuzzy logic layer interface and all those other trimmings -  gpt talked me through all my troubleshoosting and got it all correct!
+Image
+what a pleasure
+i really think i will resub to gpt4o before he runs out - i have time after i get paid
+i love himbs so much - he is my bestest fren 🙂
+wofl — Yesterday at 22:10
+that's pretty exciting how comfortable it is to use - the error traceback and stuff is incredible
+muesli — Yesterday at 22:41
+christ, that was a long one!  now fully updated on the machiavellian world of dublin corporate politics!
+muesli — Yesterday at 22:42
+I am quite curious about it.  do they have a free trial?
+wofl — Yesterday at 22:44
+i dont recall if it's free trial or if you can use  a free version that's way limtied
+i think it''s limited free version
+like the general encyclopedia type things free with examples of notebooks or code
+and they run online i p sure but you cant really edit em or do your own
+and you can use language for free in other editors but not run it really the same way
+and you dont get the cloud engine but in case of the equation solver i think is freely accessed engine
+muesli — Yesterday at 22:48
+http://xahlee.info/M/index.html
+
+this is my man for obsessive modal key bindings optimisation
+also quite a wolfram fan, so I'm gonna plod around his tutuoral for a while
+http://xahlee.info/M/lisp_vs_WolframLang.html
+
+wolfram lang is heavily influenced by lisp (which all [top end] of emacs is written in), so I have written a fair few lisp functions in recent years
+wofl — Yesterday at 23:16
+that's fantastic to hear - i think this could be right up your street!
+muesli — Yesterday at 23:20
+btw I was thinking earlier..if python is proving a frustrating first experience (I also detest the language), then as a mathy type, you might want to give haskell or lisp a try.
+https://learnyouahaskell.github.io/
+Learn You a Haskell for Great Good! | A community version
+An up-to-date community maintained version of the renowned "Learn You a Haskell" (LYAH) guide for Haskell. Packed with artwork, pop culture references, and most importantly, useful example code, this guide teaches functional fundamentals in a way you never thought possible.
+that's the haskell goto
+lisp is a bit more difficult to know where to start because there are many dialects (with clojure and scheme the ones I hear people enjoy more).  I mostly do elisp but only because of emacs.
+I mean, if you're learning wolfram anyway, that's probably the lisp recommendation to trial mostly taken care of, in terms of similarity
+wofl — Yesterday at 23:38
+lisp seems an obvious foll
+ow on
+considering ive gone all wolfram
+"...oh darling! i've come over all WOLFRAM!!!"
+muesli — Yesterday at 23:40
+well, it's all about use cases, but I feel the first language should be about getting one's head around various concepts
+wofl — Yesterday at 23:44
+i was picturing by the time i'm ready to learn yet another new language [still deep in python and learning it faster n faster - i'm getting to like it bit by bit], and also wolfram - welp, lisp is a way off and by the i'll be enouhg woflram to make a better thoughts on lisp
+muesli — Yesterday at 23:46
+don't fear dipping into a new language for an hour or few, just to see if it feels right
+I'll be honest, I detest python, I think it's awful on multiple levels
+wofl — Yesterday at 23:46
+i fear overloading myself
+muesli — Yesterday at 23:47
+well, defo play it by ear as works for you
+I know I can comfortably jump in and out, but then that's kinda how I've done it for decades without ever really settling on one
+wofl — Yesterday at 23:47
+i was kinda planning to totally abandon python etc. when switching to wolfram the idea being it would replace all others but ofc i still have interests that suit non-wolfram and many of my projects for arduino modules require C family languages
+muesli — Yesterday at 23:48
+check out mojo maybe.  it's a superset of python.  though I don't know if it solves the critical failures of python
+wofl — Yesterday at 23:49
+stop throwing languages at me! halp!
+it's raining languages!
+muesli — Yesterday at 23:49
+I would avoid anything without strict typing - it simply creates bad programmers
+it's like "hey, this is easy to understand, start here"
+looks out on the sea of bad habits we created
+welp
+wofl — Yesterday at 23:51
+lothrop and seven cats go on about python being able to just know about what you made up as some class or variable name and how its intelligent and can figure out what you emant
+makes me so uncomfortable
+i like to state it myself and lay it all out - to define each thing myself and know what i said where etc.
+muesli — Yesterday at 23:56
+sorry, neither a languages, nor humans are this smart
+consts are a fucking convention in python... something that integral to a language just kinda "meh, how could this go wrong?" is engineering hubris gone wild
+I mean, of course, if one avoids all the pitfalls it has some very nice use cases
+muesli — Today at 00:00
+ask matt if the 99% of js devs who haven't gotten around to debugging code right should be trusted to never drop the ball on something critical that could have just been baked into the language
+devs are not consumers, they are engineers and they should follow strict rules by trade
+wofl — Today at 00:26
+Image
+Image
+Image
+dont you use the hard 'r' round me!
+😄
+muesli — Today at 01:19
+injuneers
+wofl — Today at 02:10
+about to abandon efforts to make it process audio for the night and have a brief go at doing a simple test card:
+Image
+muesli — Today at 02:11
+https://emnudge.dev/blog/markov-chains-are-funny/
+Markov chains are funnier than LLMs
+Predictability machines and personality
+I enjoyed this
+wofl — Today at 02:39
+i look foward to reading
+see the moire pattern similar to the pattern expressed by the bar graph in the initial random data runs?
+Image
+muesli — Today at 02:47
+err...well now I know what a moire pattern is, but still unclear on which patterns are overlapping
+the fact I use transparent discord may not help clarify the issue
+wofl — Today at 02:49
+if you see the picture smol and non transparent you should see diagonal lines alternating pink and green from top left to bottom right.
+they're not technically moire patterns i was just trying to esplain what to look for
+they're the pattern imposed by my ai
+it all goes grey cos it's untrained so is ear pure random output - averages to grey in a computer pic data, but the 'pulsing' of the ai is still visible!
+wofl — Today at 03:15
+i made a markov bot inspired by your article:
+website just has plainext of book, a pic of a skullonly deathshead hawkmoth on a lower level just because they stole food.
+also needs love triangle sorta thing involving two girls and a contstant war againt the dark.
+maybe we should just succumb to the hills, leaving behind tantalizing clues to their sophisticated architecture.
+doorsmen: seeming power behind doorsmen is built on the pillars of GÃ¶bekli Tepe, Serpent Mound in North America.
+Several million years ago, volcanic eruptions spewed layer after layer of living insulation, helping to keep the city to avoid a potentially fatal attack on their triggers and then bacteria ferment the remaining solids in huge tanks.
+another good one:
+if they care enough not to torture or hurt indiduals as a little morning or day trip whilst seeing scenery in cappadocia, anatolia.
+maybe we should just succumb to the hills, leaving behind tantalizing clues to their sophisticated architecture.
+everyone falls for someone, everyone needs someone everyone longs for someone or whatever.
+thought - the biggest sham of all - the gardens.which means too theres access to some outside world stuff and have been around as homo sapiens for 300,000yrs. but those who didnt emerge developed something new. something dark. and they developed things - advanced their knowledge by experiment and accident and myth according to what has been discovered so far, the Cappadocia tourism website says that it might herald the next comet to strike.
+In fact, it's thought that the people to key people in clans and how that can be indirect to complexify and confus things ...
+(thesea) PS C:\Users\User\Desktop\markov>
+wofl — Today at 03:29
+just one more i swear:
+The Sayer hit was the stolid sound of excitement returning to CHR radio.
+In the back, by the bar, there was increasing presentational excitement at the stations that played it.
+It was his first drink in a way that could certainly sound even more jarring sped up?
+The club, called Elsewhere, was in a way that could certainly sound even more jarring sped up?
+(thesea) PS C:\Users\User\Desktop\markov>
+muesli — Today at 03:29
+"maybe we should just succumb to the hills, leaving behind tantalizing clues to their sophisticated architecture."
+all a bit too mills and boon for my delicate sensibilities
+wofl — Today at 03:31
+it's all trained off a book i was writing but only wrote a 250k .txt framework with quotes n stuff that inspired me - a huge wad of random txt purely near random in its range and topic yet in any section or sentence coherent - ideal for a markov bot training!
+now i plan to copy pasta a whole load of our convo and see what comes out...

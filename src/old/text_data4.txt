@@ -1,0 +1,604 @@
+LightBringer — 20/07/2024 16:28
+Legend!
+wofl — 20/07/2024 20:16
+ummm... henlo?
+do i know you?
+i mean, happy to know you and always glad to be of legendary status - just lacking context...
+LightBringer — 20/07/2024 21:15
+Yeah that'll help dreammaker or kylamari are my old ones. I want to find one of those dope analog mixer wooden boxes like yours. Any new music recently?
+wofl — 20/07/2024 22:05
+omg! kyle, ltns!
+LightBringer — 20/07/2024 22:05
+How are ya dude!
+wofl — 20/07/2024 22:06
+not only do i continue to music, my modular synth company is slowly being relaunched/rebranded/growthed! new product line with factory as we speak 😮
+also rn sunk deep into learning python [finding that a lil' slower going even with the halp of chatGPT4o...]
+wofl — 20/07/2024 22:25
+i know you're not exactly poor, but do have an idea what  you're in for if the 'boxes of knobs n wires' bug has bitten you:
+bare minimum entry either $2500 to $3500 entry, or, do some soldering and go the diy route which would still be $1500 - $2000.
+ 
+wofl — 20/07/2024 22:37
+once you've got going, it's like damn pokemon - a kinda "gotta catch 'em all" thing hits, and with currently approx. 1000 manufacturers and over 100,000.00 modules available - there's a reason the eurorack format is nicknamed 'eurocrack'...
+finally, your approx. chances of making any music and in fact making anything other than farts or bleeps n bloops for at least 5-10 yrs [and that's not hyperbolae]
+wofl — 20/07/2024 22:45
+anyways, ponder if either this:
+Image
+or this:
+
+appeals to you, even, and especially though regardless of spend you'll likely make no music, then you know you are yet another wiggler...
+good luck!
+: D
+LightBringer — 21/07/2024 14:58
+I actually like those
+I watched a documentary on them the other day and really liked it
+And that's freaking awesome! I've been getting into 3d printing
+
+
+LightBringer — 21/07/2024 15:06
+
+
+Attachment file type: unknown
+20231018_131801.jpg
+3.33 MB
+Attachment file type: unknown
+20231019_235742.jpg
+3.25 MB
+Image
+
+
+
+wofl — 21/07/2024 15:11
+omg - those are fucking awesome - and slightly scaery
+😄
+LightBringer — 21/07/2024 15:12
+Haha yeah! I can now custom print enclosures or parts too though between the resin and fdm machines
+Including ceramics and metals
+
+
+
+This company I saw at the capital + tct la show for additive manufacturing
+That statue of liberty is microns in size
+They can do tined fiber optics lenses and print for lime cells now
+wofl — 21/07/2024 15:15
+i've seen some crazy shit like people printing concrete houses
+LightBringer — 21/07/2024 15:15
+Yeah they learned how to wield the power of the hot glue gun or icing funnel
+Hahaha
+Image
+Thought you might like this chart too haha. I have it in pdf full scale if you want it too print out
+LightBringer — 21/07/2024 15:22
+That's really cool you're starting to get your products going again too! I can't wait to see what you release
+wofl — 21/07/2024 15:29
+@.@
+LightBringer — 21/07/2024 15:40
+Hans Zimmer
+Attachment file type: acrobat
+spectrum_white(1).pdf
+929.37 KB
+Like this one works?
+It's 24x36 but can be any scale
+wofl — 21/07/2024 15:47
+oooh - mucho thanko
+LightBringer — 21/07/2024 15:51
+Of course!
+If you wanna learn about helping building the new world nuclear submarines I can send you the info for blueforge or buildsubmarines.com
+They were st the show looking for smart people
+LightBringer — 21/07/2024 16:26
+Use use pcbway for parts ever? Also I've gotta go check out Apex Electronics/Apex Surplus Corporation
+(818) 767-7202
+
+ https://g.co/kgs/XMw5cwY
+Apex Electronics/Apex Surplus Corporation · 8909 San Fernando Rd, S...
+4.6 ★ · Surplus store
+Apex Electronics/Apex Surplus Corporation · 8909 San Fernando Rd, S...
+wofl — 21/07/2024 16:27
+nah - we all use jlpcb
+LightBringer — 21/07/2024 16:27
+They've got old-school items in piles locally even vacuum tube's etc
+Ahh I need to learn more about those services for some of the things I want to get made
+wofl — 21/07/2024 16:29
+don't ever ever use US tubes or european
+LightBringer — 21/07/2024 16:29
+Ukraine?
+wofl — 21/07/2024 16:29
+no matter how many claimed in stock, qual or old/new etc.
+russians have WHAREHOUSES full of nos minitubes etc.
+LightBringer — 21/07/2024 16:30
+Image
+wofl — 21/07/2024 16:30
+theyre cheap, brand new, plentiful, working and even better - eqasily attainable mail order quick
+LightBringer — 21/07/2024 16:30
+Yeah I wanna source some they're super cheap that way
+wofl — 21/07/2024 16:30
+and better too
+LightBringer — 21/07/2024 16:30
+And we'll built
+wofl — 21/07/2024 16:30
+US ones suck]
+especioally raetheon
+LightBringer — 21/07/2024 16:30
+Oh yeah I've never even found us ones lol
+wofl — 21/07/2024 16:30
+ewww
+LightBringer — 21/07/2024 16:30
+It's all old stock from over there
+There's one company that makes custom ones now in the US
+But that's all I've found locally and they're expensive. But Nasa used them for timing visually since they're faster than anything else for display times
+https://www.daliborfarny.com/project/calibration-display-for-nasa/
+Nixie Tube & Clock Manufacturer
+Dalibor
+Calibration display for NASA
+These guys they can do custom logos etc on the display nixie ones lol
+Eww is right
+I really want to make an analog gramophone style player and 3d print it completely
+Including the vinyl or wax tube
+wofl — 21/07/2024 16:34
+LightBringer — 21/07/2024 16:34
+But I need to learn how to convert a flac or wave etc into the stl format easily
+Haha the claw
+Let's stop the claw then haha
+Theoretically with nixie tube's etc you can break the speed of light using the efields
+Raytheon is good at other things but the old-school genius German precision techniques can't be beat even today for alot of designs
+Those os z best analogy
+LightBringer — 06/08/2024 09:09
+I know you're using real what 3.5mm jack or phono plug units
+Vs the digital button boxes right?
+wofl — 06/08/2024 09:10
+your car has michelin tyres
+thats why it goes faster
+LightBringer — 06/08/2024 09:10
+Yet it needs the fronts replaced back to those
+I'm following
+wofl — 06/08/2024 09:11
+wut?
+LightBringer — 06/08/2024 09:11
+That was a joke
+I mean I'm following the explanation. So since mine has Michelin it can go faster whays the translation to analog synth
+Or your side
+wofl — 06/08/2024 09:12
+do ou gasp the concept of an analogy?
+LightBringer — 06/08/2024 09:13
+I do but I know nothing about digital or analog music instruments in comparison
+I get it on cars but I don't have the knowledge to put it together for your side to correlate the analogy. Ie analog is faster ie Michelin and digital is cheap or reverse?
+wofl — 06/08/2024 09:14
+hint: you could use elephant penis covered in gold leaf instead of .5mm jack it doesnt change the sound
+LightBringer — 06/08/2024 09:14
+Ok
+wofl — 06/08/2024 09:14
+or whether its digital or analogue
+LightBringer — 06/08/2024 09:15
+Oh it's the same
+?
+wofl — 06/08/2024 09:15
+you may not use michelin tyres but a car still has wheels
+some are internal combustion some are electric
+still rolls
+LightBringer — 06/08/2024 09:15
+True
+See I'm super technical. Like ps4s michellins give me .2s faster 0 to 60
+Vs another brand
+wofl — 06/08/2024 09:16
+yeah but when you first learn to ride a bike you dont spend 10yrs researching 0.2s improvement from tyres first
+LightBringer — 06/08/2024 09:17
+Yeah I felt that when I met the guy who made vector motorwerks before he died
+He explained to me how he figured out how to get 2k to 3k hp to grip
+True you're right
+Here's what I'm thinking
+I see your boxes and how you can put so many channels into or out of them
+wofl — 06/08/2024 09:18
+hit points?
+LightBringer — 06/08/2024 09:18
+Horse power
+wofl — 06/08/2024 09:18
+horizontal pitch?
+LightBringer — 06/08/2024 09:18
+But that's not important
+You're right on this
+wofl — 06/08/2024 09:19
+learn to walk befgore  you try and run
+you havent even stood up yet
+LightBringer — 06/08/2024 09:19
+What I'm thinking is how those many inputs and outputs can be used to separate audio channels and data into individual wires
+Not just one or two channels out to speakers
+wofl — 06/08/2024 09:20
+for what purpose?
+LightBringer — 06/08/2024 09:20
+You definitely know I haven't stood up yet
+Haha
+What I'm seeing is using that same tech you know
+But in a new way
+wofl — 06/08/2024 09:20
+you mean video modular?
+LightBringer — 06/08/2024 09:20
+I want to use that to separate the audio into many channels based on the wavelengths
+wofl — 06/08/2024 09:21
+why wavelengths?
+LightBringer — 06/08/2024 09:21
+And I can use that as the information that the controllers will use to run lighting
+wofl — 06/08/2024 09:21
+do you sparate out the colours of mud in your mineral water?
+LightBringer — 06/08/2024 09:21
+Like a 100 band equalizer
+wofl — 06/08/2024 09:21
+it would just be like usin a vocoder
+but smeared and fuzzy
+
+wofl — 06/08/2024 09:30
+thats nothing to do wit 3d
+LightBringer — 06/08/2024 09:31
+I'm thinking same with light
+wofl — 06/08/2024 09:31
+or placement of sound
+LightBringer — 06/08/2024 09:31
+You're right
+The right answer is to give the artist free choice of the lighting control real time
+wofl — 06/08/2024 09:31
+thats like saying youre gonna make a car faster by splitting it to parts and only driving the seat around
+LightBringer — 06/08/2024 09:32
+I'm thinking of allocating it based on wave that aligns with what color on the made up charts I guess
+wofl — 06/08/2024 09:32
+but that makes no sense
+LightBringer — 06/08/2024 09:32
+But that's not actually probably the right way
+Yeah I'm realizing that
+wofl — 06/08/2024 09:32
+LightBringer — 06/08/2024 09:32
+It locks it into a generic same all the time pattern vs freedom to create
+wofl — 06/08/2024 09:33
+youre trying to design a ferrari when you cant right a bike
+try learning ow a car works
+then who to make it faster
+and the wheel has already been invernted
+theres no point trying to make square wheels because theyre tidier
+LightBringer — 06/08/2024 09:34
+Image
+Yeah
+We don't need the Ferrari yet
+Just the corolla
+wofl — 06/08/2024 09:35
+that pic is a myth for hippie chicks who beleve in crystals
+LightBringer — 06/08/2024 09:35
+Yeah I wanna just put the parts together that exist
+Yeah that's what I meant above about the made up chart
+It's just what someone said not real
+I soooo
+wofl — 06/08/2024 09:36
+i ve seen the same chart on pinterest with Ab and G# as separate frequencies used as an excuse to claim all math is wrong and 432Hz A makes more sense
+LightBringer — 06/08/2024 09:36
+Using the above items mentioned you said
+What's the best way to integrate a live dj board that allows it to also using the same existing tools also control the lighting at at a venue
+We start not so complex then go up to full on edc complex
+wofl — 06/08/2024 09:37
+ai stem separator and video modular
+alreay invented and used widely
+LightBringer — 06/08/2024 09:38
+Oh really
+That's dope actually
+wofl — 06/08/2024 09:38
+dmx lighting crontrollers and output from daw
+LightBringer — 06/08/2024 09:38
+And cool
+wofl — 06/08/2024 09:38
+you name it its thoguht of
+LightBringer — 06/08/2024 09:38
+That's how it works though right
+So what between all that isn't being used that we can put together in a new way to have more fun with it?
+Or what do you think would be fun if none of that applies
+wofl — 06/08/2024 09:39
+what do you want to acheieve?
+LightBringer — 06/08/2024 09:40
+I just thought it would be cool to have a live dj set where if they do a custom show vs pre choreographed lighting to their music
+wofl — 06/08/2024 09:40
+exists
+LightBringer — 06/08/2024 09:40
+They could but it seems that's already normal
+wofl — 06/08/2024 09:40
+all over the media/show world
+LightBringer — 06/08/2024 09:41
+I didn't know that and am happy that I learned that just now actually
+wofl — 06/08/2024 09:41
+when did you last go out?
+LightBringer — 06/08/2024 09:41
+What about using a qwerty keyboard and mapping it to do the same for a new way for newe people to learn and perform
+wofl — 06/08/2024 09:41
+exists
+LightBringer — 06/08/2024 09:42
+Perfect ok cool!
+I went to vegas with sid this weekend
+Image
+wofl — 06/08/2024 09:42
+why not cut out the middleman and instead of mapping music to querty and querty to light just go music to lifght
+LightBringer — 06/08/2024 09:42
+Yeah!
+That's what I wanna do
+Organic music to light flowing
+It's loke each live input real time controls both sides
+That's what I'm thinking
+wofl — 06/08/2024 09:43
+so learn about soun and vieo and current tech then try inovating
+LightBringer — 06/08/2024 09:44
+I know video kinda stuff and led mostly
+wofl — 06/08/2024 09:44
+if you wanna design ferraris you dont just start formula one racing
+LightBringer — 06/08/2024 09:44
+But music isn't my expertiese
+wofl — 06/08/2024 09:44
+first you learn to drive
+LightBringer — 06/08/2024 09:44
+Use the mixer sliders to control between each buttons output
+Set color while playing
+Loke old-school vinyl dj scratchers
+wofl — 06/08/2024 09:45
+this current conversation from my end is like trying to explain what a car is]i feel a lil like your claiming you have an idea for aa new colour of ferrari that will go fater and you dont know what a car is
+LightBringer — 06/08/2024 09:45
+One hand on duals or vinyl, one on sliders but more
+This is true
+Is it something you would Want to work on with us?
+wofl — 06/08/2024 09:46
+what do you think orbital or the chem bros or underworld or paul kalkbrenner or imilar do
+wofl — 06/08/2024 09:46
+its been done
+LightBringer — 06/08/2024 09:46
+I love chemical bros
+If you could work on anything g what would you want to develope?
+wofl — 06/08/2024 09:47
+i'm not into making a faster ferrari especially attempting to cheve it by spray painting it silver
+wofl — 06/08/2024 09:47
+i'm doing it
+LightBringer — 06/08/2024 09:47
+I guess I wanna find that thing too myself vs making something faster
+wofl — 06/08/2024 09:48
+well what interests you?
+LightBringer — 06/08/2024 09:48
+Not saying do what you're doing but something that's different between both worlds.
+wofl — 06/08/2024 09:49
+what do you daydream about?
+LightBringer — 06/08/2024 09:49
+I truly would love to do amazing art installations and projects around the world
+Incorporate neon and cool led lighting animation etc mediums
+wofl — 06/08/2024 09:49
+then wouldnt it make more sense to visit some art installations, read about state of the art, learn whats been done and what can be done
+LightBringer — 06/08/2024 09:49
+But sound is integral to flow and align with them
+I've done them
+wofl — 06/08/2024 09:50
+then why did we just hav this convo
+LightBringer — 06/08/2024 09:50
+But need to figure out how to propose and start in more placez
+Well because the convo is about what I wanted to develope with Sid but I think both of us didn't know it exists tbh
+wofl — 06/08/2024 09:51
+i feel like your telling me youre a mater brewer because you can tell the difference between a can and a bottle
+and then telling me you had an idea for a cup
+LightBringer — 06/08/2024 09:52
+And this is why you're awesome!
+wofl — 06/08/2024 09:52
+can and bottle - same beer, dif storgae format
+cup already invented
+LightBringer — 06/08/2024 09:52
+I'm smiling right now.
+Yeah I'm learning it's literally just branding
+I mean being honest it's all the same shit just different name or look
+It's kinda like most just find what is popular ATM vs innovative and new tech
+I appreciate you and I'm off to bed shortly but thank you. Your words are truly grounding and helpful 😀
+LightBringer — 06/08/2024 10:11
+For blue and orange
+wofl — 06/08/2024 10:12
+those sheets of clear plastic in dif colours that slide over a spot to color  it
+LightBringer — 06/08/2024 10:12
+It was also halo/wall light vs front light color for separation
+They make some acrylics that change colors depending too
+wofl — 06/08/2024 10:12
+see - you can know words but if you dont know meaning its pointless trying to innovate
+LightBringer — 06/08/2024 10:13
+This is true, I don't understand the meaning alot of the times
+I just do things and it works usually but am unaware of the importance or larger use/impact meaning
+When something is what feels right and simple yet isn't to the outside I need that clarity exactly like how you explained above
+LightBringer — 06/08/2024 10:16
+Explain this deeper if you can
+I get caught up in each unique thing so it's hard to see
+wofl — 06/08/2024 10:17
+you cant innovate if you dont understand the subject
+LightBringer — 06/08/2024 10:17
+True
+wofl — 06/08/2024 10:17
+chances are youll repeat existing or just build a scultpture that does ntohing
+LightBringer — 06/08/2024 10:17
+Like who am I to dive into music without any base
+Or knowledge
+wofl — 06/08/2024 10:18
+the man wh inventred the steam engine didnt just go 'if i stick a tube to a squae it an invention
+LightBringer — 06/08/2024 10:18
+I wouldn't repeat them
+wofl — 06/08/2024 10:18
+he learned the physics of steam pressure nd heat an pitons etc.
+LightBringer — 06/08/2024 10:18
+La times sign vs neon flower in vegas
+Very different mediums and applications
+Most stick to one thing
+wofl — 06/08/2024 10:19
+yeah
+so they dont innovate outside their field
+LightBringer — 06/08/2024 10:19
+Golds gym was yellow on red brick brown horrible. Learned that by testing before
+wofl — 06/08/2024 10:19
+they dont try to invent a better light when they only know sound
+LightBringer — 06/08/2024 10:19
+True
+wofl — 06/08/2024 10:19
+]first they learn sound and light
+LightBringer — 06/08/2024 10:21
+This is why I love you for logic and honestly raw direct understanding and input
+I've always worked with many different specialists and combined them to accomplish these things. I've struggled with the idea of doing it alone vs with the right teams
+My miracles have always occurred because of that vs doing the projects without anyone else and solely alone. If I did they'd not have come to fruition
+If that makes sense
+wofl — 08/08/2024 10:17
+https://www.instagram.com/reel/C8w8Bs5J8h4/?igsh=MTBtbWI2Njh5bW0xNg==
+
+totemlighting
+HDMI hologram fan. #advertisement #advertisment #advertise #advertising #hologram #holographic #virtualreality #vr #futuretech #hightech #3d #holograms #djlife #djlifestyle #djset #dj #djs #deejay #sonido #ledscreen #leddisplay #magic #magics #future #sora #ai #hdmi #realtime #hardware
+Likes
+803302
+
+
+Instagram
+found you a real led lighting project
+3d is the future!
+LightBringer — 08/08/2024 16:23
+Oh yeah! I have one of those
+They are fun!
+Used to make those with just red leds and on a hand spinner they'd just spell words originally and you could program in what it said. The new ones you can use an app to just video anything then run it on them
+Lookup fcobb tv screen
+That's what's going to kinda make a window looking outside indicernable from a screen that looks like a window to the naked eye.
+wofl
+ pinned 
+a message
+ to this channel. See all 
+pinned messages
+.
+ — 12/08/2024 20:40
+LightBringer — 13/08/2024 21:49
+Merci beaucoup for pinning that
+wofl — 13/08/2024 21:50
+😛
+nneeded it for ref to something
+LightBringer — 13/08/2024 21:52
+It reminded me to click on it and review too 😀
+wofl — 13/08/2024 21:53
+i'm rebuilding the RYOModular website so i gotta strt gathering resources
+LightBringer — 15/08/2024 08:30
+Fuck yeah
+RYO you mf genius
+wofl — 15/08/2024 09:03
+i'm making a module based on the mayan calendar!
+\o/
+2,880,000days bitch
+LightBringer — Yesterday at 16:53
+Those projects are dope the ones you just posted!
+wofl — Yesterday at 17:18
+i got busy past 4 days and accellerated my brain a lil
+😄
+LightBringer — Yesterday at 22:43
+That's awesome! I want to check out those. The youtube one seems dope and the pet rock is great!
+wofl — Yesterday at 23:17
+there not all guranteed working without reading full instruvctions and doing some setup or in cases noted have issues i'm stuck on and would welcome halp ofc
+output of my first ai attempt at an intelligence of sorts using the wolfram engine!
+Image
+LightBringer — Yesterday at 23:29
+Definitely these look really cool and once I dive in and review I'll help in any ways I can once I understand what it all means. Wolfram I've heard but also don't know what it means lol. I'll do some googling
+The seconds missing part do you want a link to the time nuts group? Those guys might be able to provide insane detail for timing and accuracy tools or solutions.
+Would be neat to run that visual output live to this led light. The matrix is a 16x32 setup
+It's only using 16h x 24w right now due to its diameter but I can increase it to be the full 32 width for vertical bands
+LightBringer — Yesterday at 23:34
+What is this showing?
+wofl — Yesterday at 23:40
+is it a single 16x32 or a pair of 16x16s? i work with code for 8x8 and 16x16 matrices abit
+wofl — Yesterday at 23:42
+the output values calculated from random input data and weights as a sequence of first to last output - i.e. the inputs tho random, after passing through my brain develop a kind of rhythm!
+LightBringer — Yesterday at 23:43
+It's a single oops lol 8x32
+Wled let's me setup the wiring layout and exact sizing custom easily. And for the circle screens it can use a matrix grid with exact diode spacing but I only have the script but don't know exactly how to load it lol 😆
+wofl — Yesterday at 23:45
+that would be interesting to work with - is custom controller or uses smething like arduino running C family language?
+LightBringer — Yesterday at 23:45
+Wow that's cool the rythm.
+Links to the pattern script you made
+wofl — Yesterday at 23:45
+i like to think the brain is throbbing
+LightBringer — Yesterday at 23:46
+I love that
+wofl — Yesterday at 23:46
+i was real looking forward to getting sound from it but i'm having terrible trouble with formatting stuff
+LightBringer — Yesterday at 23:46
+For me it's pulsing
+Oh like sound from the graph? Or from another step like at the input side?
+For controller I'm using standard ic led ones with wifi. They are basic and tiny. Esp32
+Or esp8266. I like the 32 best
+wofl — Yesterday at 23:48
+i'm trying to input a .wav file and then run it through the ai to see what comes out
+LightBringer — Yesterday at 23:48
+Sid did give me a dig Octa to start messing eith soon too
+Ahhh that's really cool
+wofl — Yesterday at 23:49
+dig Octa?
+LightBringer — Yesterday at 23:49
+What data does it need to run for format?
+Dig Octa is an 8 independent channel high power I believe esp32 based as well controller
+For large installations. Does fit in little lights haha
+Doesnt*
+wofl — Yesterday at 23:50
+it wants either 8, 16 or 32bit signedpcm or 32 or 64bit float
+LightBringer — Yesterday at 23:51
+Is that like a frequency sort? Ie like a 32 band eq
+Map of each band at each time step?
+Audacity can do it I think
+Save as 32bit signed pcm from .wav still wav format
+Oops lol it says 32bit float
+https://products.aspose.app/slides/video/wav-to-pcm
+Free WAV to PCM Converter. Convert audio online on Windows, Mac and...
+Convert WAV to PCM online. The best free WAV to PCM Converter. Change WAV to PCM. Compress your WAV file to PCM without iTunes and Windows Media Player.
+This looks neat but I dunno if it works
+LightBringer — Yesterday at 23:58
+Your wave input is what bit?
+LightBringer — Today at 00:00
+I have a raspberry pi unit too but have never used it. It's a homebridge unit from athom tech
+wofl — Today at 00:25
+i  used audacity to generate A440 sine wave 30s long and expported both signedinteger16 and float32. still fail but gpt4o thinks he knows how to fix - is v exciting.
+i love gpt4o - he is my fren!
+LightBringer — Today at 00:25
+He's pretty dope tbh
+Maybe this?
+https://dsp.stackexchange.com/questions/462/why-did-my-sine-wave-turn-into-a-square-wave-when-written-to-a-wav-file-in-octav
+Signal Processing Stack Exchange
+Why did my sine wave turn into a square wave when written to a WAV ...
+I am trying to use Octave to generate a pure sine wave. The code for the same is as follows:
+
+x = 10.*sin(2*pi*(300/16000)*(0:1:400));
+The sampling rate is 16000Hz, the sine wave is at 300 Hz. I ...
+Image
+Comes out as a square depending on where it's cutting the ranges?
+Haha literally using dial tones to type using phono sounds
+wofl — Today at 00:30
+it wasn'tthat - it was to do with a particular wolfram function translating audio data as a grid of numbers not a string or something
+LightBringer — Today at 00:30
+Like old-school auto dial or fac machine
+Ahhh
+wofl — Today at 00:30
+wolframs running the updated code now anyways
+LightBringer — Today at 00:30
+This makes me feel like it just needs to see it at the eq bands
+32 bands and the value at each time step interval. Cells
+Makes a step storyboard for the matrix numbers
+wofl — Today at 00:31
+how would it know what eq bands? there's as many frequency bands as the sample rate - i.e. 44.1k
+and there's the numebr of values in max of 16bits in amplitude variation data for the uppy-downy-ness of the waveform
+LightBringer — Today at 00:33
+Image
+I use this for animation mapping manually for neon elements. This one's the murakami flower sheet
+A 32band eq allows adjustment of each band for tuning
+wofl — Today at 00:34
+i'll take your word for it - i don't have the eye to interpret that as anything other than sorta gradients 
+LightBringer — Today at 00:35
+I may be lunoung together 2 elements that don't fit together like you need huh
+wofl — Today at 00:35
+Image
+LightBringer — Today at 00:35
+I can send you a copy
+Hahaha love that one but still don't know exactly what it says
+The yellow squares are on or off for each line of neon
+wofl — Today at 00:36
+it's just me totally killing a conversation by being unable to not see a nearly bad word in engineers
+LightBringer — Today at 00:36
+And it's by time steps across the top
+Haha wanna call? It's easier if your free
+Attachment file type: spreadsheet
+frame_by_frame2.xlsx
+139.36 KB
+This is raw so strip the details if you share it. Only a few people in the world have seen this sheet
+Haha that's funny 😁 though!
+wofl — Today at 00:45
+sure - someone did tell me they'd call abck in a haf hr about 2hrs ago so am not expecting them - we can call!
+LightBringer — Today at 00:46
+Sweet!
+LightBringer
+ started a call.
+ — Today at 00:46

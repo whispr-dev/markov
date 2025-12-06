@@ -1,0 +1,13 @@
+This version includes:
+
+Mutation & noise injection via entropy_pressure
+
+Risk of irreversible collapse via fragility
+
+Recovery behavior & structural preservation via reversibility and slack
+
+Word-slot based generation with some occasional randomness-shuffling
+
+Drug insertions for semantic chaos!
+
+Self-adapting entropy & reversibility over time to simulate resilience vs collapse

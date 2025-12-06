@@ -1,0 +1,25 @@
+🧠 How POS (Part-of-Speech) Filters Work
+POS filtering is about tagging each word with its grammatical role:
+
+NOUN: people, places, things (dog, freedom)
+
+VERB: actions or states (run, exist)
+
+ADJ: modifiers (blue, strange)
+
+ADV: modifies verbs/adjectives (quickly, very)
+
+DET: determiners (the, a, this)
+
+PREP: prepositions (on, between)
+
+PRON: pronouns (she, they)
+
+etc.
+
+Typical Workflow:
+Tokenize the sentence (split into words).
+
+Tag each token using a POS tagger (like SpaCy, NLTK, Stanza, or nltk.pos_tag() in Python).
+
+Filter or transform based on tag type.
