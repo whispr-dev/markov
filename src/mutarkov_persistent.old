@@ -1,0 +1,86 @@
+// File: mutarkov_persistent.cpp
+// Location: /mnt/data/mutarkov_persistent.cpp
+
+#include <iostream>
+#include <fstream>
+#include <sstream>
+#include <vector>
+#include <unordered_map>
+#include <random>
+#include <algorithm>
+#include <ctime>
+#include <cstdlib>
+#include <cmath>
+
+using namespace std;
+
+// Persistent Game Theory parameters
+float entropy_pressure = 0.15;       // Q: probability of inserting noise/mutation
+float fragility = 0.05;              // α: chance of irreversibly losing structure
+float reversibility = 0.8;           // η: how likely is the system to revert to stable state
+float slack = 0.1;                   // T: capacity to recover by rebalancing parameters
+
+// Word categories
+vector<string> nouns = {"bottle", "dog", "girl", "voice", "machine"};
+vector<string> verbs = {"ran", "broke", "exploded", "spoke", "melted"};
+vector<string> preps = {"under", "on", "into", "between"};
+vector<string> articles = {"a", "the", "this"};
+vector<string> adjectives = {"shiny", "weird", "old", "dangerous"};
+vector<string> drugs = {"weed", "drugs", "meth", "dope", "stuff", "ice", "beers", "b.m.r.", "shroomies", "spice", "methadone", "ACID!", "pills", "opium", "hash", "speed", "vodka"};
+
+// RNG setup
+random_device rd;
+mt19937 gen(rd());
+
+string choose_random(const vector<string>& v) {
+    return v[uniform_int_distribution<>(0, v.size() - 1)(gen)];
+}
+
+bool flip_coin(float chance) {
+    return uniform_real_distribution<>(0, 1)(gen) < chance;
+}
+
+string generate_sentence() {
+    vector<string> sentence;
+    string structure[5] = {"article", "adjective", "noun", "verb", "preposition"};
+
+    for (const string& slot : structure) {
+        if (flip_coin(entropy_pressure)) {
+            if (flip_coin(0.05)) sentence.push_back(choose_random(drugs));  // 5% chance of inserting [NOUN]-class drug
+            else sentence.push_back("???");
+        } else if (slot == "article") sentence.push_back(choose_random(articles));
+        else if (slot == "adjective") sentence.push_back(choose_random(adjectives));
+        else if (slot == "noun") sentence.push_back(choose_random(nouns));
+        else if (slot == "verb") sentence.push_back(choose_random(verbs));
+        else if (slot == "preposition") sentence.push_back(choose_random(preps));
+    }
+
+    // Add final noun/prep if we're stable
+    if (flip_coin(reversibility)) {
+        sentence.push_back(choose_random(articles));
+        sentence.push_back(choose_random(nouns));
+    } else if (flip_coin(fragility)) {
+        sentence.clear();
+        sentence.push_back("Collapse.");
+    }
+
+    // Shuffle occasionally for creativity
+    if (flip_coin(entropy_pressure)) shuffle(sentence.begin(), sentence.end(), gen);
+
+    // Adaptively tweak parameters
+    if (flip_coin(slack)) {
+        entropy_pressure = std::max(0.01f, std::min(0.3f, entropy_pressure + static_cast<float>(std::uniform_real_distribution<>(-0.01, 0.01)(gen))));
+        reversibility = std::max(0.5f, std::min(1.0f, reversibility + static_cast<float>(std::uniform_real_distribution<>(-0.02, 0.02)(gen))));
+    }
+
+    ostringstream oss;
+    for (const string& word : sentence) oss << word << " ";
+    return oss.str();
+}
+
+int main() {
+    for (int i = 0; i < 20; ++i) {
+        cout << "Generated sentence: " << generate_sentence() << endl;
+    }
+    return 0;
+}

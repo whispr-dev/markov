@@ -1,0 +1,115 @@
+#include <iostream>
+#include <fstream>
+#include <sstream>
+#include <unordered_map>
+#include <unordered_set>
+#include <vector>
+#include <string>
+#include <random>
+#include <ctime>
+#include <algorithm>
+
+using namespace std;
+
+const size_t MIN_LEN = 8;
+const size_t MAX_LEN = 65;
+const size_t FINAL_LEN = 30;
+
+// -- POS guesser (offline, naive) --
+string guess_pos(const string& word) {
+    static unordered_set<string> det = {"a", "an", "the"};
+    static unordered_set<string> adj = {"big", "small", "strange", "quiet", "ancient", "red", "blue", "dark", "bright", "gentle"};
+    static unordered_set<string> noun = {"man", "woman", "cat", "dog", "machine", "time", "forest", "light", "sound", "voice"};
+    static unordered_set<string> verb = {"ran", "jumped", "spoke", "broke", "found", "lost", "took", "gave", "held", "saw"};
+    static unordered_set<string> adv = {"quickly", "silently", "happily", "sadly", "loudly"};
+    static unordered_set<string> prep = {"in", "on", "under", "over", "through", "by", "of", "to", "with"};
+
+    string lw = word;
+    transform(lw.begin(), lw.end(), lw.begin(), ::tolower);
+
+    if (det.count(lw)) return "DET";
+    if (adj.count(lw)) return "ADJ";
+    if (noun.count(lw)) return "NOUN";
+    if (verb.count(lw)) return "VERB";
+    if (adv.count(lw)) return "ADV";
+    if (prep.count(lw)) return "PREP";
+    return "UNK";
+}
+
+bool is_valid_structure(const vector<string>& words) {
+    string last_tag;
+    int det = 0, noun = 0, verb = 0;
+
+    for (const auto& word : words) {
+        string tag = guess_pos(word);
+        if (tag == "DET") det++;
+        if (tag == "NOUN") noun++;
+        if (tag == "VERB") verb++;
+        last_tag = tag;
+    }
+
+    return det >= 1 && noun >= 1 && verb >= 1;
+}
+
+// -- Helper --
+vector<string> split(const string& text) {
+    vector<string> tokens;
+    istringstream iss(text);
+    string token;
+    while (iss >> token) tokens.push_back(token);
+    return tokens;
+}
+
+string join(const vector<string>& words) {
+    ostringstream oss;
+    for (size_t i = 0; i < words.size(); ++i) {
+        if (i) oss << " ";
+        oss << words[i];
+    }
+    return oss.str();
+}
+
+// -- Mutation --
+vector<string> mutate_to_fit(vector<string> words) {
+    while (!is_valid_structure(words) || words.size() > MAX_LEN) {
+        if (words.size() <= MIN_LEN) break;
+
+        vector<size_t> candidates;
+        for (size_t i = 0; i < words.size(); ++i) {
+            string tag = guess_pos(words[i]);
+            if (tag != "DET" && tag != "ADJ" && tag != "NOUN" && tag != "VERB" && tag != "PREP")
+                candidates.push_back(i);
+        }
+
+        if (!candidates.empty()) {
+            size_t kill = candidates[rand() % candidates.size()];
+            words.erase(words.begin() + kill);
+        } else {
+            words.erase(words.begin() + rand() % words.size());
+        }
+    }
+
+    if (words.size() > FINAL_LEN) words.resize(FINAL_LEN);
+    return words;
+}
+
+// -- Markov mock content (for demo) --
+string get_demo_input() {
+    return "The man ran through the dark forest as the machine broke down quickly and silently.";
+}
+
+// -- Main --
+int main() {
+    srand(static_cast<unsigned>(time(nullptr)));
+    string raw = get_demo_input();
+    auto words = split(raw);
+    auto mutated = mutate_to_fit(words);
+
+    if (!is_valid_structure(mutated)) {
+        cout << "­ƒÿó Sorry fren, couldn't mutate into valid sentence.\n";
+    } else {
+        cout << "­ƒÉ║ " << join(mutated) << "\n";
+    }
+
+    return 0;
+}

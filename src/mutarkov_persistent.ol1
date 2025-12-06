@@ -1,0 +1,98 @@
+#include <iostream>
+#include <fstream>
+#include <sstream>
+#include <string>
+#include <vector>
+#include <unordered_map>
+#include <random>
+#include <algorithm>
+#include <thread>
+#include <chrono>
+#include <nlohmann/json.hpp>
+
+
+using json = nlohmann::json;
+
+class MarkovBot {
+public:
+    void train_from_file(const std::string& filename) {
+        std::ifstream file(filename);
+        std::string line;
+        while (std::getline(file, line)) {
+            train(line);
+        }
+    }
+
+    void train(const std::string& text) {
+        std::istringstream iss(text);
+        std::string prev = "<START>";
+        std::string word;
+        while (iss >> word) {
+            memory[prev].push_back(word);
+            prev = word;
+        }
+        memory[prev].push_back("<END>");
+    }
+
+    std::string generate_sentence() {
+        std::string word = "<START>";
+        std::string result;
+        int limit = 50;
+
+        while (limit-- > 0) {
+            const auto& next_words = memory[word];
+            if (next_words.empty()) break;
+            const std::string& next = next_words[rand() % next_words.size()];
+            if (next == "<END>") break;
+            result += next + " ";
+            word = next;
+        }
+
+        if (result.empty()) return "???";
+        result.pop_back(); // remove trailing space
+        return result;
+    }
+
+    void save_memory(const std::string& filename) {
+        json j;
+        for (const auto& [key, vec] : memory) {
+            j[key] = vec;
+        }
+        std::ofstream file(filename);
+        file << j.dump(2);
+    }
+
+    void load_memory(const std::string& filename) {
+        std::ifstream file(filename);
+        if (!file) return;
+        json j;
+        file >> j;
+        for (auto& [key, vec] : j.items()) {
+            memory[key] = vec.get<std::vector<std::string>>();
+        }
+    }
+
+private:
+    std::unordered_map<std::string, std::vector<std::string>> memory;
+};
+
+int main() {
+    MarkovBot bot;
+
+    std::cout << "Loading memory..." << std::endl;
+    bot.load_memory("mutarkov_brain.json");
+
+    std::cout << "Training from file..." << std::endl;
+    bot.train_from_file("text_data_filtered.txt");
+
+    while (true) {
+        std::string sentence = bot.generate_sentence();
+        std::cout << "Generated sentence: " << sentence << std::endl;
+        std::this_thread::sleep_for(std::chrono::milliseconds(500));
+    }
+
+    std::cout << "Saving memory..." << std::endl;
+    bot.save_memory("mutarkov_brain.json");
+
+    return 0;
+}
